@@ -3,7 +3,7 @@ import React, { useEffect, useState } from 'react';
 import { wrapper } from '../redux/store';
 import { VuroxContextProvider } from '../context';
 
-import 'antd/dist/antd.less';
+import '~/antd/dist/antd.less';
 import '../styles/globals.css';
 import 'primereact/resources/themes/bootstrap4-dark-blue/theme.css';
 import 'primereact/resources/primereact.min.css';

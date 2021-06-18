@@ -121,6 +121,7 @@ const DataTableDemo = (props) => {
     { name: 'Stephen Shaw', image: 'stephenshaw.png' },
     { name: 'XuXue Feng', image: 'xuxuefeng.png' },
   ];
+
   const statuses = [
     'unqualified',
     'qualified',
